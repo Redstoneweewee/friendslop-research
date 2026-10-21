@@ -1,0 +1,16 @@
+﻿price_band,group,launches,hits,hit_rate,ci95_low,ci95_high,on_chart
+Free,Friendslop,437,76,0.1739,0.1413,0.2123,True
+Free,Other online,2597,414,0.1594,0.1458,0.174,True
+Free,All Steam,14182,1116,0.0787,0.0744,0.0832,True
+$0.01–4.99,Friendslop,946,46,0.0486,0.0367,0.0643,True
+$0.01–4.99,Other online,1683,31,0.0184,0.013,0.026,True
+$0.01–4.99,All Steam,38386,491,0.0128,0.0117,0.014,True
+$5–9.99,Friendslop,580,74,0.1276,0.1029,0.1572,True
+$5–9.99,Other online,1230,56,0.0455,0.0352,0.0587,True
+$5–9.99,All Steam,18663,646,0.0346,0.0321,0.0373,True
+$10–19.99,Friendslop,157,37,0.2357,0.1761,0.3079,True
+$10–19.99,Other online,1631,313,0.1919,0.1735,0.2117,True
+$10–19.99,All Steam,13649,1655,0.1213,0.1159,0.1268,True
+$20+,Friendslop,6,3,0.5,0.1876,0.8124,False
+$20+,Other online,992,577,0.5817,0.5507,0.612,False
+$20+,All Steam,4783,1567,0.3276,0.3145,0.3411,False
